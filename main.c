@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
-// seçenekleri argümanlarla yolla, argüman yoksa sadece listele, yapılacakları struct yap, yazılan dosyayı da .dat yap.
 int main(int argc, char *argv[]){
 
 char* dosya =  "yapilacaklar.txt";
